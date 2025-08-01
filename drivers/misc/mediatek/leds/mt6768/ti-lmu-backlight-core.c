@@ -35,6 +35,8 @@
 #define MAX_LEVEL_8_BIT (255)
 #define LCD_NAME_1 "dsi_panel_m19a_36_02_0a_dsc_vdo_lcm_drv"
 #define LCD_NAME_2 "dsi_panel_m19a_42_03_0b_dsc_vdo_lcm_drv"
+#define LCD_NAME_3 "dsi_panel_m19a_42_03_0c_dsc_vdo_lcm_drv"
+#define LCD_NAME_4 "dsi_panel_m19a_42_03_0d_dsc_vdo_lcm_drv"
 
 static int lcd_id = 2; /* 2 is default num */
 static struct ti_lmu_bl_chip *bl_chip;

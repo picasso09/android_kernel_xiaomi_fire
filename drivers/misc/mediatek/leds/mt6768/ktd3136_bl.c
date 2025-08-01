@@ -34,6 +34,8 @@ int ktd_hbm_mode;
 
 #define LCD_NAME_1 "dsi_panel_m19a_36_02_0a_dsc_vdo_lcm_drv"
 #define LCD_NAME_2 "dsi_panel_m19a_42_03_0b_dsc_vdo_lcm_drv"
+#define LCD_NAME_3 "dsi_panel_m19a_42_03_0c_dsc_vdo_lcm_drv"
+#define LCD_NAME_4 "dsi_panel_m19a_42_03_0d_dsc_vdo_lcm_drv"
 #define WT_TRUE 1
 #define WT_FALSE 0
 
